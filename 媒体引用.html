@@ -12,6 +12,60 @@
 
     <style>
         /* Make the image fully responsive */
+        /*@media all and (max-width:1199px) and (min-width:1024px)*/
+        .main {
+            width: 100%;
+            margin: 0 auto;
+        }
+        .main {
+            overflow: hidden;
+            padding: 40px 0 90px 0;
+        }
+        .page-left-menu {
+            border: 1px solid #e6e6e6;
+            float: left;
+            margin-right: 18px;
+            border-radius: 10px 10px 0 0;
+            width: 240px;
+            overflow: hidden;
+            margin-bottom: 40px;
+        }
+        .page-left-menu .page-left-title {
+            border-bottom: 1px solid #e6e6e6;
+            padding-left: 45px;
+            background: #fff;
+            color: #0093c4;
+        }
+        .page-left-menu .page-left-title h1::before {
+            content: "";
+            position: relative;
+            left: -15px;
+            top: 4px;
+            display: inline-block;
+            width: 3px;
+            height: 24px;
+            background: #0093c4;
+        }
+        .page-left-menu .page-left-menu-box {
+            padding: 20px;
+            border-top: none;
+        }
+        .page-left-menu .page-left-menu-box .menu1 .menu-item1 {
+            border-bottom: 1px dashed #e6e6e6;
+            line-height: 40px;
+            font-size: 16px;
+            text-indent: 20px;
+            transition: all .3s ease-out;
+        }
+        .page-left-menu .page-left-title .zh {
+            font-size: 24px;
+        }
+        .page-left-menu .page-left-title .en {
+            display: none;
+            font-size: 14px;
+            color: #0093c4;
+        }
+
         .text_field {
             position: relative;
             display: inline-block;
@@ -43,6 +97,11 @@
         .btn_field a:hover{
             text-decoration: none;
         }
+        /*@media all and (max-width:1199px) and (min-width:1024px)*/
+        .main .container {
+            width: auto;
+        }
+
     </style>
 </head>
 <body>
@@ -90,7 +149,40 @@
 
 <div class="main">
 
+    <div class="page-left-menu" style="margin-top: 0px;">
+        <div class="page-left-title">
+            <h1>
+                <span class="zh">关于我们</span>
+                <small class="en"> / ABOUT</small>
+            </h1>
+        </div>
+        <div class="page-left-menu-box">
+            <div class="menu1">
+                <div class="menu-item1" data-type="6">
+                    <a href="intro.php">
+                        企业简介        </a>
+                </div>
 
+                <div class="menu-item1" data-type="143">
+                    <a href="about.php?cid=143">
+                        服务对象        </a>
+                </div>
+
+                <div class="menu-item1" data-type="144">
+                    <a href="http://www.infsum.com/about.php?cid=144">
+                        公司文化        </a>
+                </div>
+
+                <div class="menu-item1" data-type="213">
+                    <a href="about.php?cid=213">
+                        媒体引用        </a>
+                </div>
+
+
+            </div>
+
+        </div>
+        <img class="wpica" style="width:180px;margin-left:30px;" alt="微信" src="picture/erwei.png"></div>
         <div class="mainContent">
             <div class="child">
                 <div class="childImg">

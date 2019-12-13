@@ -3,70 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>政策模拟平台</title>
-    <link href="1120.css" type="text/css" rel="stylesheet"/>
-    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
-    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
-    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
-
+    <link rel="stylesheet" type="text/css" href="css/head.css">
+    <link rel="stylesheet" type="text/css" href="css/crumbs.css">
+    <link rel="stylesheet" type="text/css" href="css/page-left-menu.css">
+    <link rel="stylesheet" type="text/css" href="css/main-container.css">
+    <link rel="stylesheet" type="text/css" href="css/footer.css">
 
     <style>
-        /* Make the image fully responsive */
-        /*@media all and (max-width:1199px) and (min-width:1024px)*/
-        .main {
-            width: 100%;
-            margin: 0 auto;
-        }
-        .main {
-            overflow: hidden;
-            padding: 40px 0 90px 0;
-        }
-        .page-left-menu {
-            border: 1px solid #e6e6e6;
-            float: left;
-            margin-right: 18px;
-            border-radius: 10px 10px 0 0;
-            width: 240px;
-            overflow: hidden;
-            margin-bottom: 40px;
-        }
-        .page-left-menu .page-left-title {
-            border-bottom: 1px solid #e6e6e6;
-            padding-left: 45px;
-            background: #fff;
-            color: #0093c4;
-        }
-        .page-left-menu .page-left-title h1::before {
-            content: "";
-            position: relative;
-            left: -15px;
-            top: 4px;
-            display: inline-block;
-            width: 3px;
-            height: 24px;
-            background: #0093c4;
-        }
-        .page-left-menu .page-left-menu-box {
-            padding: 20px;
-            border-top: none;
-        }
-        .page-left-menu .page-left-menu-box .menu1 .menu-item1 {
-            border-bottom: 1px dashed #e6e6e6;
-            line-height: 40px;
-            font-size: 16px;
-            text-indent: 20px;
-            transition: all .3s ease-out;
-        }
-        .page-left-menu .page-left-title .zh {
-            font-size: 24px;
-        }
-        .page-left-menu .page-left-title .en {
-            display: none;
-            font-size: 14px;
-            color: #0093c4;
-        }
-
         .text_field {
             position: relative;
             display: inline-block;
@@ -98,9 +41,25 @@
         .btn_field a:hover{
             text-decoration: none;
         }
-        /*@media all and (max-width:1199px) and (min-width:1024px)*/
-        .main .container {
-            width: auto;
+        .maxTitle {
+            position: relative;
+            line-height: 34px;
+        }
+        .maxTitle span {
+            position: relative;
+            z-index: 1;
+            padding-right: 18px;
+            background: #fff;
+            color: #0093c4;
+            font-size: 30px;
+        }
+        .maxTitle .sub {
+            position: absolute;
+            top: 18px;
+            width: 100%;
+            height: 1px;
+            width: 100%;
+            background: #d6d6d6;
         }
 
     </style>
@@ -117,9 +76,9 @@
             <span><a href="#">关于我们</a></span>
             <div class="menu">
                 <a href="服务简介.html">服务简介</a>
-                <a href="服务对象.html">服务对象</a>
-                <a href="公司文化.html">公司文化</a>
-                <a href="媒体引用.html">媒体引用</a>
+                <a href="html/关于我们/服务对象.html">服务对象</a>
+                <a href="html/关于我们/公司文化.html">公司文化</a>
+                <a href="html/关于我们/媒体引用.html">媒体引用</a>
         </div>
         </div>
         <div class="text_field">
@@ -147,7 +106,13 @@
     </div>
 
 </div>
-
+<div class="crumbs">
+    <div class="container">
+        <p class="title">企业简介</p>
+        <div class="childs">
+            <a href="">首页</a>&nbsp;&gt;&nbsp;<a href="http://infsum.com/intro.php">关于我们</a>&nbsp;&gt;&nbsp;<a href="intro.php">企业简介</a>            </div>
+    </div>
+</div>
 <div class="main">
     <div class="page-left-menu" style="margin-top: 0px;">
         <div class="page-left-title">
@@ -159,41 +124,37 @@
         <div class="page-left-menu-box">
             <div class="menu1">
                 <div class="menu-item1" data-type="6">
-                    <a href="intro.php">
-                        企业简介        </a>
+                    <a href="服务简介.html">
+                        企业简介  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;      </a>
                 </div>
 
                 <div class="menu-item1" data-type="143">
-                    <a href="about.php?cid=143">
-                        服务对象        </a>
+                    <a href="html/关于我们/服务对象.html">
+                        服务对象  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;      </a>
                 </div>
 
                 <div class="menu-item1" data-type="144">
-                    <a href="http://www.infsum.com/about.php?cid=144">
-                        公司文化        </a>
+                    <a href="html/关于我们/公司文化.html">
+                        公司文化   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;     </a>
                 </div>
 
                 <div class="menu-item1" data-type="213">
-                    <a href="about.php?cid=213">
-                        媒体引用        </a>
+                    <a href="html/关于我们/媒体引用.html">
+                        媒体引用   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;     </a>
                 </div>
 
 
             </div>
 
         </div>
-        <img class="wpica" style="width:180px;margin-left:30px;" alt="微信" src="picture/erwei.png"></div>
+        <img class="wpica" style="width:180px;margin-left:30px;" alt="微信" src="picture/erwei.png">
+    </div>
 
 
 
     <div class="container" style="overflow: hidden;">
         <div class="maxTitle">
             <span class="title">
-                <br>
-<br>
-                <br>
-                <br>
-                <br>
                 企业简介</span>
             <div class="sub"></div>
         </div>
@@ -286,7 +247,7 @@
                     <span style="color:#666666;font-size:16px;"> &nbsp;&nbsp;&nbsp;&nbsp;公司每年定期举办公开培训课程，教授经济模型与政策分析技术，并且还可以根据客户要求，定制化了提供与模型相关的数据、模型及结果分析的培训课程。此外，作为澳大利亚维多利亚大学政策研究中心（CoPS）开发的建模软件GEMPACK的区官方代理，负责售后服务。此软件是一款用于一般均衡建模的专业软件。</span>
                 </p>
                 <p>
-	<span style="color:#666666;font-size:16px;"><br>
+	<span style="color:#666666;font-size:16px;">
       </span>
                 </p>
                 <ul>
@@ -294,23 +255,17 @@
                         <span style="font-size:16px;color:#666666;"><strong>定位全球</strong></span>
                     </li>
                 </ul>
-                <span style="font-size:16px;color:#666666;">公司在全球的4个分部以及世界各地拥有客户资源和合作伙伴。</span><br>
+                <span style="font-size:16px;color:#666666;">公司在全球的4个分部以及世界各地拥有客户资源和合作伙伴。</span>
                 <div style="text-align:center;">
                     <span style="color:#666666;font-size:16px;">&nbsp;</span><span style="color:#666666;font-size:16px;"><img src="picture/1520926795.png" alt=""></span>
                 </div>
                 <span style="font-size:16px;color:#666666;">服务对象：欧盟委员会、世界银行、亚洲发展银行、加拿大外交部、新加坡贸易产业部、麦肯锡、中国国家信息中心、中国农业部信息中心等。</span><br>
                 <span style="font-size:16px;color:#666666;">战略合作伙伴：澳大利亚维多利亚大学政策研究CoPS中心， 美国普度大学GTAP中心，加拿大Ciuriak 咨询公司，上市公司久其软件（002279）。</span><br>
-                <div>
-                    <br>
-                </div>
+
                 <span style="font-size:16px;color:#666666;"></span>
-                <p>
-                    <br>
-                </p>
+
                 <span style="color:#666666;font-size:16px;"></span>
-                <p>
-                    <br>
-                </p>                </div>
+                                </div>
 
         </div>
     </div>

@@ -3,69 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <title>政策模拟平台</title>
-    <link href="1120.css" type="text/css" rel="stylesheet"/>
-    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
-    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
-    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
+    <link href="../../1120.css" type="text/css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="../../css/head.css">
+    <link rel="stylesheet" type="text/css" href="../../css/crumbs.css">
+    <link rel="stylesheet" type="text/css" href="../../css/page-left-menu.css">
+    <link rel="stylesheet" type="text/css" href="../../css/main-container.css">
+    <link rel="stylesheet" type="text/css" href="../../css/footer.css">
 
     <style>
-        /* Make the image fully responsive */
-        /*@media all and (max-width:1199px) and (min-width:1024px)*/
-        .main {
-            width: 100%;
-            margin: 0 auto;
-        }
-        .main {
-            overflow: hidden;
-            padding: 40px 0 90px 0;
-        }
-        .page-left-menu {
-            border: 1px solid #e6e6e6;
-            float: left;
-            margin-right: 18px;
-            border-radius: 10px 10px 0 0;
-            width: 240px;
-            overflow: hidden;
-            margin-bottom: 40px;
-        }
-        .page-left-menu .page-left-title {
-            border-bottom: 1px solid #e6e6e6;
-            padding-left: 45px;
-            background: #fff;
-            color: #0093c4;
-        }
-        .page-left-menu .page-left-title h1::before {
-            content: "";
+        .container {
             position: relative;
-            left: -15px;
-            top: 4px;
-            display: inline-block;
-            width: 3px;
-            height: 24px;
-            background: #0093c4;
+            width: 1200px;
+            margin: 0px auto;
         }
-        .page-left-menu .page-left-menu-box {
-            padding: 20px;
-            border-top: none;
-        }
-        .page-left-menu .page-left-menu-box .menu1 .menu-item1 {
-            border-bottom: 1px dashed #e6e6e6;
-            line-height: 40px;
-            font-size: 16px;
-            text-indent: 20px;
-            transition: all .3s ease-out;
-        }
-        .page-left-menu .page-left-title .zh {
-            font-size: 24px;
-        }
-        .page-left-menu .page-left-title .en {
-            display: none;
-            font-size: 14px;
-            color: #0093c4;
-        }
-
         .text_field {
             position: relative;
             display: inline-block;
@@ -97,17 +47,32 @@
         .btn_field a:hover{
             text-decoration: none;
         }
-        /*@media all and (max-width:1199px) and (min-width:1024px)*/
-        .main .container {
-            width: auto;
+        .maxTitle {
+            position: relative;
+            line-height: 34px;
+        }
+        .maxTitle span {
+            position: relative;
+            z-index: 1;
+            padding-right: 18px;
+            background: #fff;
+            color: #0093c4;
+            font-size: 30px;
+        }
+        .maxTitle .sub {
+            position: absolute;
+            top: 18px;
+            height: 1px;
+            width: 940px;;
+            background: #d6d6d6;
         }
 
     </style>
 </head>
 <body>
 <div class="navigation_bars" style="z-index:1">
-    <img class="logo0" src="./images/logo0.jpg">
-    <img class="logo" src="./images/logo.jpg">
+    <img class="logo0" src="../../images/logo0.jpg">
+    <img class="logo" src="../../images/logo.jpg">
     <div class="navigation_textbox"><!--导航栏-->
         <div class="text_field">
             <a href="#" >首页</a>
@@ -115,7 +80,7 @@
         <div class="text_field">
             <span><a href="#">关于我们</a></span>
             <div class="menu">
-                <a href="服务简介.html">服务简介</a>
+                <a href="../../服务简介.html">服务简介</a>
                 <a href="服务对象.html">服务对象</a>
                 <a href="公司文化.html">公司文化</a>
                 <a href="媒体引用.html">媒体引用</a>
@@ -140,11 +105,18 @@
             <span><a href="#">注册</a></span>
         </div>
         <div class="btn_field">
-            <span><a href="./用户端/2.0用户登录和注册入口.html">登录</a></span>
+            <span><a href="../../用户端/2.0用户登录和注册入口.html">登录</a></span>
         </div>
 
     </div>
 
+</div>
+<div class="crumbs">
+    <div class="container">
+        <p class="title">企业简介</p>
+        <div class="childs">
+            <a href="">首页</a>&nbsp;&gt;&nbsp;<a href="http://infsum.com/intro.php">关于我们</a>&nbsp;&gt;&nbsp;<a href="intro.php">企业简介</a>            </div>
+    </div>
 </div>
 
 <div class="main">
@@ -158,33 +130,34 @@
         <div class="page-left-menu-box">
             <div class="menu1">
                 <div class="menu-item1" data-type="6">
-                    <a href="intro.php">
-                        企业简介        </a>
+                    <a href="../../服务简介.html">
+                        企业简介  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;      </a>
                 </div>
 
                 <div class="menu-item1" data-type="143">
-                    <a href="about.php?cid=143">
-                        服务对象        </a>
+                    <a href="服务对象.html">
+                        服务对象  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;      </a>
                 </div>
 
                 <div class="menu-item1" data-type="144">
-                    <a href="http://www.infsum.com/about.php?cid=144">
-                        公司文化        </a>
+                    <a href="公司文化.html">
+                        公司文化   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;     </a>
                 </div>
 
                 <div class="menu-item1" data-type="213">
-                    <a href="about.php?cid=213">
-                        媒体引用        </a>
+                    <a href="媒体引用.html">
+                        媒体引用   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;     </a>
                 </div>
 
 
             </div>
 
         </div>
-        <img class="wpica" style="width:180px;margin-left:30px;" alt="微信" src="picture/erwei.png"></div>
-
+        <img class="wpica" style="width:180px;margin-left:30px;" alt="微信" src="../../picture/erwei.png">
+    </div>
+    <div class="container" style="overflow: hidden;">
         <div class="maxTitle">
-            <span class="title"><br><br><br><br><br>服务对象</span>
+            <span class="title">服务对象</span>
             <div class="sub"></div>
         </div>
         <div class="content-line"></div>
@@ -209,100 +182,100 @@
             <tr>
                 <td width="390">
                     <p class="MsoNormal">
-                        <img alt="" src="picture/1507522984.jpg">
+                        <img alt="" src="../../picture/1507522984.jpg">
                     </p>
                     <a href="http://ec.europa.eu/index_en.htm" target="_blank">  </a>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">欧盟委员会</span><span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"=""> (European Commission)</span><span style="font-size:9.0pt;font-family:;"></span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;">欧盟委员会</span><span style="color: rgb(0, 0, 0); font-size: 16px;" > (European Commission)</span><span style="font-size:9.0pt;font-family:;"></span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507526990.jpg"><br>
+                    <img alt="" src="../../picture/1507526990.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">世界银行</span><span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"=""> (World Bank)</span><span style="font-size:9.0pt;font-family:;"></span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >世界银行</span><span style="color: rgb(0, 0, 0); font-size: 16px;" > (World Bank)</span><span style="font-size:9.0pt"></span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507525257.jpg"><br>
+                    <img alt="" src="../../picture/1507525257.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">亚洲发展银行</span><span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"=""> (Asia Development Bank)</span><span style="font-size:9.0pt;font-family:;"></span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >亚洲发展银行</span><span style="color: rgb(0, 0, 0); font-size: 16px;" > (Asia Development Bank)</span><span style="font-size:9.0pt;"></span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507530184.jpg"><br>
+                    <img alt="" src="../../picture/1507530184.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">加拿大外交部</span><span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"=""> (Department of Foreign Affairs, Trade and
-                        Development, Canada&nbsp;)</span><span style="font-size:9.0pt;font-family:;"></span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >加拿大外交部</span><span style="color: rgb(0, 0, 0); font-size: 16px;" > (Department of Foreign Affairs, Trade and
+                        Development, Canada&nbsp;)</span><span style="font-size:9.0pt;"></span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507531032.jpg"><br>
+                    <img alt="" src="../../picture/1507531032.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">新加坡贸易与产业部</span><span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"=""> (Ministry of Trade and Industry, Singapore</span><span style="color: rgb(0, 0, 0); font-size: 16px;" color:#666666;"="">)</span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >新加坡贸易与产业部</span><span style="color: rgb(0, 0, 0); font-size: 16px;" > (Ministry of Trade and Industry, Singapore</span><span style="color: rgb(0, 0, 0); font-size: 16px;" >)</span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507523950.jpg"><br>
+                    <img alt="" src="../../picture/1507523950.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">哈佛大学</span><span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">(</span><span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">Harvard University)</span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >哈佛大学</span><span style="color: rgb(0, 0, 0); font-size: 16px;" >(</span><span style="color: rgb(0, 0, 0); font-size: 16px;" >Harvard University)</span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507525317.jpg"><br>
+                    <img alt="" src="../../picture/1507525317.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">北京久其软件股份有限公司</span><span style="font-family:;"><span style="color:#000000;font-size:16px;">(Beijing Join-Cheer Software Co.,Ltd. </span><span style="color:#000000;font-size:16px;">股票简称：久其软件；股票代码：</span><span style="color:#000000;font-size:16px;">002279)</span></span><span style="font-family:;"></span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >北京久其软件股份有限公司</span><span ><span style="color:#000000;font-size:16px;">(Beijing Join-Cheer Software Co.,Ltd. </span><span style="color:#000000;font-size:16px;">股票简称：久其软件；股票代码：</span><span style="color:#000000;font-size:16px;">002279)</span></span><span style="font-family:;"></span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507524607.jpg"><br>
+                    <img alt="" src="../../picture/1507524607.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">加拿大首席执行长协会</span><span style="font-family:;"><span style="color:#000000;font-size:16px;"> (</span><span class="apple-converted-space" style="color:#000000;font-size:16px;">&nbsp;</span><span style="color:#000000;font-size:16px;">Canadian&nbsp;Council&nbsp;of&nbsp;Chief&nbsp;Executives&nbsp;)</span></span><span style="font-size:9.0pt;font-family:;"></span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >加拿大首席执行长协会</span><span ><span style="color:#000000;font-size:16px;"> (</span><span class="apple-converted-space" style="color:#000000;font-size:16px;">&nbsp;</span><span style="color:#000000;font-size:16px;">Canadian&nbsp;Council&nbsp;of&nbsp;Chief&nbsp;Executives&nbsp;)</span></span><span style="font-size:9.0pt;font-family:;"></span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507530951.jpg"><br>
+                    <img alt="" src="../../picture/1507530951.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
-                        <span style="color: rgb(0, 0, 0); font-size: 16px;" font-size:16px;color:#666666;"="">Ciuriak Consulting</span><span class="apple-converted-space" style="color:#000000;font-size:16px;"><span style="color: rgb(0, 0, 0); font-size: 16px;" color:#666666;"="">&nbsp;</span></span><span style="font-size:9.0pt;font-family:;"></span>
+                        <span style="color: rgb(0, 0, 0); font-size: 16px;" >Ciuriak Consulting</span><span class="apple-converted-space" style="color:#000000;font-size:16px;"><span style="color: rgb(0, 0, 0); font-size: 16px;" >&nbsp;</span></span><span style="font-size:9.0pt;></span>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507525562.jpg"><br>
+                    <img alt="" src="../../picture/1507525562.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
@@ -312,7 +285,7 @@
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507527633.jpg"><br>
+                    <img alt="" src="../../picture/1507527633.jpg"><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
@@ -322,7 +295,7 @@
             </tr>
             <tr>
                 <td width="390">
-                    <img alt="" src="picture/1507528811.jpg"><span style="font-size:16px;color:#666666;"></span><br>
+                    <img alt="" src="../../picture/1507528811.jpg"><span style="font-size:16px;color:#666666;"></span><br>
                 </td>
                 <td width="390">
                     <p class="MsoNormal">
@@ -336,27 +309,23 @@
                         <span style="color:#000000;">&nbsp; </span>
                     </p>
                     <p align="left">
-                        <span style="color:#000000;">&nbsp;&nbsp; </span><img alt="" src="picture/1522087457.gif">
+                        <span style="color:#000000;">&nbsp;&nbsp; </span><img alt="" src="../../picture/1522087457.gif">
                     </p>
                 </td>
                 <td>
-                    <p>
-						<span style="color:#000000;"><br>
- </span>
-                    </p>
+
                     <p>
                         <span style="color:#000000;"></span>
                     </p>
                     <p>
                         <span style="color:#000000;font-size:16px;">澳洲政策研究中心（The Centre of Policy Studies）</span>
                     </p>
-                    <br>
                 </td>
             </tr>
             <tr>
                 <td>
                     <div align="left">
-                        <img width="150" height="150" title="" align="" alt="" src="picture/1522092742.jpg"><br>
+                        <img width="150" height="150" title="" align="" alt="" src="../../picture/1522092742.jpg"><br>
                     </div>
                 </td>
                 <td>
@@ -367,14 +336,9 @@
             </tr>
             </tbody>
         </table>
-            <span style="font-size:16px;color:#666666;"></span><br>
-
-            <p></p>
-            <p class="MsoNormal">
-                <br>
-            </p>            </div>
+                       </div>
     </div>
-</div>
+    </div>
 
 <div class="foot">
     <div class="text_block">

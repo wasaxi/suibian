@@ -3,68 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>政策模拟平台</title>
-    <link href="1120.css" type="text/css" rel="stylesheet"/>
-    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
-    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
-    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link href="../../1120.css" type="text/css" rel="stylesheet"/>
 
+    <link rel="stylesheet" type="text/css" href="../../css/head.css">
+    <link rel="stylesheet" type="text/css" href="../../css/crumbs.css">
+    <link rel="stylesheet" type="text/css" href="../../css/page-left-menu.css">
+    <link rel="stylesheet" type="text/css" href="../../css/main-container.css">
+    <link rel="stylesheet" type="text/css" href="../../css/footer.css">
 
     <style>
-        /* Make the image fully responsive */
-        /*@media all and (max-width:1199px) and (min-width:1024px)*/
-        .main {
-            width: 100%;
-            margin: 0 auto;
-        }
-        .main {
-            overflow: hidden;
-            padding: 40px 0 90px 0;
-        }
-        .page-left-menu {
-            border: 1px solid #e6e6e6;
-            float: left;
-            margin-right: 18px;
-            border-radius: 10px 10px 0 0;
-            width: 240px;
-            overflow: hidden;
-            margin-bottom: 40px;
-        }
-        .page-left-menu .page-left-title {
-            border-bottom: 1px solid #e6e6e6;
-            padding-left: 45px;
-            background: #fff;
-            color: #0093c4;
-        }
-        .page-left-menu .page-left-title h1::before {
-            content: "";
-            position: relative;
-            left: -15px;
-            top: 4px;
-            display: inline-block;
-            width: 3px;
-            height: 24px;
-            background: #0093c4;
-        }
-        .page-left-menu .page-left-menu-box {
-            padding: 20px;
-            border-top: none;
-        }
-        .page-left-menu .page-left-menu-box .menu1 .menu-item1 {
-            border-bottom: 1px dashed #e6e6e6;
-            line-height: 40px;
-            font-size: 16px;
-            text-indent: 20px;
-            transition: all .3s ease-out;
-        }
-        .page-left-menu .page-left-title .zh {
-            font-size: 24px;
-        }
-        .page-left-menu .page-left-title .en {
-            display: none;
-            font-size: 14px;
-            color: #0093c4;
-        }
+
 
         .text_field {
             position: relative;
@@ -97,17 +45,33 @@
         .btn_field a:hover{
             text-decoration: none;
         }
-        /*@media all and (max-width:1199px) and (min-width:1024px)*/
-        .main .container {
-            width: auto;
+        .maxTitle {
+            position: relative;
+            line-height: 34px;
+        }
+        .maxTitle span {
+            position: relative;
+            z-index: 1;
+            padding-right: 18px;
+            background: #fff;
+            color: #0093c4;
+            font-size: 30px;
+        }
+        .maxTitle .sub {
+            position: absolute;
+            top: 18px;
+            width: 100%;
+            height: 1px;
+            width: 100%;
+            background: #d6d6d6;
         }
 
     </style>
 </head>
 <body>
 <div class="navigation_bars" style="z-index:1">
-    <img class="logo0" src="./images/logo0.jpg">
-    <img class="logo" src="./images/logo.jpg">
+    <img class="logo0" src="../../images/logo0.jpg">
+    <img class="logo" src="../../images/logo.jpg">
     <div class="navigation_textbox"><!--导航栏-->
         <div class="text_field">
             <a href="#" >首页</a>
@@ -115,7 +79,7 @@
         <div class="text_field">
             <span><a href="#">关于我们</a></span>
             <div class="menu">
-                <a href="服务简介.html">服务简介</a>
+                <a href="../../服务简介.html">服务简介</a>
                 <a href="服务对象.html">服务对象</a>
                 <a href="公司文化.html">公司文化</a>
                 <a href="媒体引用.html">媒体引用</a>
@@ -140,15 +104,20 @@
             <span><a href="#">注册</a></span>
         </div>
         <div class="btn_field">
-            <span><a href="./用户端/2.0用户登录和注册入口.html">登录</a></span>
+            <span><a href="../../用户端/2.0用户登录和注册入口.html">登录</a></span>
         </div>
 
     </div>
 
 </div>
-
+<div class="crumbs">
+    <div class="container">
+        <p class="title">企业简介</p>
+        <div class="childs">
+            <a href="">首页</a>&nbsp;&gt;&nbsp;<a href="http://infsum.com/intro.php">关于我们</a>&nbsp;&gt;&nbsp;<a href="intro.php">企业简介</a>            </div>
+    </div>
+</div>
 <div class="main">
-
     <div class="page-left-menu" style="margin-top: 0px;">
         <div class="page-left-title">
             <h1>
@@ -159,30 +128,32 @@
         <div class="page-left-menu-box">
             <div class="menu1">
                 <div class="menu-item1" data-type="6">
-                    <a href="intro.php">
-                        企业简介        </a>
+                    <a href="../../服务简介.html">
+                        企业简介  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;      </a>
                 </div>
 
                 <div class="menu-item1" data-type="143">
-                    <a href="about.php?cid=143">
-                        服务对象        </a>
+                    <a href="服务对象.html">
+                        服务对象  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;      </a>
                 </div>
 
                 <div class="menu-item1" data-type="144">
-                    <a href="http://www.infsum.com/about.php?cid=144">
-                        公司文化        </a>
+                    <a href="公司文化.html">
+                        公司文化   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;     </a>
                 </div>
 
                 <div class="menu-item1" data-type="213">
-                    <a href="about.php?cid=213">
-                        媒体引用        </a>
+                    <a href="媒体引用.html">
+                        媒体引用   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt;     </a>
                 </div>
 
 
             </div>
 
         </div>
-        <img class="wpica" style="width:180px;margin-left:30px;" alt="微信" src="picture/erwei.png"></div>
+        <img class="wpica" style="width:180px;margin-left:30px;" alt="微信" src="../../picture/erwei.png">
+    </div>
+    <div class="container" style="overflow: hidden;">
         <div class="mainContent">
             <div class="child">
                 <div class="childImg">

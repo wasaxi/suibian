@@ -88,15 +88,45 @@
 .text_field a:hover{
     color: #00a3d9;
 }
-/*.text_field a:visited{*/
-/*    color: #1D9FCA;*/
-/*}*/
+
 .btn_field a:hover{
     color: #00a3d9;
 }
-/*.btn_field a:visited{*/
-/*    color: #1D9FCA;*/
-/*}*/
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.text_field a{
+    color: gray;
+}
+.text_field a:hover{
+    text-decoration: none;
+}
+.btn_field a{
+    color: gray;
+}
+.btn_field a:hover{
+    text-decoration: none;
+}
+
+
+
+
+.text_field {
+    position: relative;
+    display: inline-block;
+}
+.menu{
+    display: none;
+    position: absolute;
+    background-color: #FFFAFA;
+    min-width: 80px;
+}
+.text_field:hover .menu{
+    display: block;
+}
 .carousel-inner img {
     width: 100%;
     height: 100%;

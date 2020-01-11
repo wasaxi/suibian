@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/main-container-solution.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/agri.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/disaster.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/env.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/finance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/labor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/poverty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/解决方案/trade.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ag-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ag-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ag-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/finance-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
+    <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="12-16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/head.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/head.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/123.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/产品系列/仿真平台.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/仿真平台.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/产品系列/培训课程.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/培训课程.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告.html" afterDir="false" />
@@ -44,9 +19,16 @@
       <change beforePath="$PROJECT_DIR$/html/关于我们/服务对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/关于我们/服务对象.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/团队成员/business_team.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/团队成员/business_team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/团队成员/consultant_content.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/团队成员/consultant_content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/产品系列.html" beforeDir="false" afterPath="$PROJECT_DIR$/产品系列.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/服务简介.html" beforeDir="false" afterPath="$PROJECT_DIR$/服务简介.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/agri.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/agri.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/disaster.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/disaster.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/env.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/env.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/finance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/labor.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/labor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/poverty.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/poverty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/source.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/解决方案/trade.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/trade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/政策模拟平台（1129版）.html" beforeDir="false" afterPath="$PROJECT_DIR$/政策模拟平台（1129版）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/head.css" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/css/head.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,42 +46,6 @@
         <option value="CSS File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>.jp</find>
-      <find>化工</find>
-      <find>log</find>
-      <find>&lt;img</find>
-      <find>logo</find>
-      <find>微信</find>
-      <find>15052</find>
-      <find>wapnav</find>
-      <find>seac</find>
-      <find>seachicon</find>
-      <find>footsear</find>
-      <find>1505273347</find>
-      <find>1505274497</find>
-      <find>1520926795</find>
-      <find>&quot;right&quot;</find>
-      <find>150752</find>
-      <find>6990</find>
-      <find>5257</find>
-      <find>0184</find>
-      <find>1032</find>
-      <find>3950</find>
-      <find>5317</find>
-      <find>4607</find>
-      <find>0951</find>
-      <find>5562</find>
-      <find>7633</find>
-      <find>8811</find>
-      <find>7457</find>
-      <find>2742</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>picture</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -172,6 +118,9 @@
       <workItem from="1576132502846" duration="23157000" />
       <workItem from="1576202159311" duration="5173000" />
       <workItem from="1576409000577" duration="5095000" />
+      <workItem from="1577071834892" duration="3045000" />
+      <workItem from="1577246183593" duration="3348000" />
+      <workItem from="1578706256484" duration="4222000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1576062424188</created>
@@ -243,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576237148285</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="12-16">
+      <created>1576496098247</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576496098247</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new">
+      <created>1576496297167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576496297167</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +217,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -265,6 +230,8 @@
     <MESSAGE value="qaolwihtfoaqiwgpolaihGPO" />
     <MESSAGE value="关于我们" />
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="12-16" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>

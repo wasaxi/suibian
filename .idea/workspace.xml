@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="12-16">
+    <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/仿真平台.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/仿真平台.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/培训课程.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/培训课程.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告6.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告7.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/研究报告8.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/研究报告8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/产品系列/资料库.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/产品系列/资料库.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/关于我们/公司文化.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/关于我们/公司文化.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/关于我们/媒体引用.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/关于我们/媒体引用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/关于我们/服务对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/关于我们/服务对象.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/团队成员/business_team.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/团队成员/business_team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/团队成员/consultant_content.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/团队成员/consultant_content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/agri.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/agri.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/disaster.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/disaster.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/env.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/env.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/finance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/labor.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/labor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/poverty.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/poverty.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/source.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/解决方案/trade.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/解决方案/trade.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/政策模拟平台（1129版）.html" beforeDir="false" afterPath="$PROJECT_DIR$/政策模拟平台（1129版）.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/css/head.css" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/css/head.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +94,7 @@
       <workItem from="1576409000577" duration="5095000" />
       <workItem from="1577071834892" duration="3045000" />
       <workItem from="1577246183593" duration="3348000" />
-      <workItem from="1578706256484" duration="4222000" />
+      <workItem from="1578706256484" duration="5189000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1576062424188</created>
@@ -206,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576496297167</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1.11.2020">
+      <created>1578712248799</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578712248799</updated>
+    </task>
+    <task id="LOCAL-00014" summary="最新1.11">
+      <created>1578712408435</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578712408435</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +220,8 @@
     <MESSAGE value="123" />
     <MESSAGE value="12-16" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="1.11.2020" />
+    <MESSAGE value="最新1.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="最新1.11" />
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,16 +52,16 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204\img" />
-      <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204\html\解决方案" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204" />
       <recent name="C:\Users\dell\IdeaProjects\_1204\html\团队成员" />
       <recent name="C:\Users\dell\IdeaProjects\_1204\html\关于我们" />
       <recent name="C:\Users\dell\IdeaProjects\_1204\html\产品系列" />
       <recent name="C:\Users\dell\IdeaProjects\_1204" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204\img" />
+      <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204\html\解决方案" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,6 +75,16 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="7.页面管理.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_1204/webapp/管理端/平台管理/7.页面管理.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.7.页面管理.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />

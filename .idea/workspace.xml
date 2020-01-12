@@ -3,7 +3,166 @@
   <component name="ChangeListManager">
     <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/WritenByUs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/box.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/head.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/home_BottomMenuBar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/home_WritenByMe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/font/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/transfer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layui/管理员框架.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/layuigai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/个人主页.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/余额.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/按钮.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/搜索页.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/登录注册.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/css/真正的主页.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/body1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/body1_2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/buy_1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/buy_2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/buy_3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/header01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/header_bei.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/个人.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/个人账目.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/团队.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/团队账目.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/头像.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/总帐目.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/搜索.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/支付宝.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/记录.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/images/详细记录.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/1.1个人注册信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/1.2团队注册信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/1.注册信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/2.账目查询.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/4.2团队信息管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/4.用户详细信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/5.2使用详情.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/5.查询记录.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/平台管理系统.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +172,15 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/服务简介.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,8 +199,75 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html" />
+        <option value="$PROJECT_DIR$/管理端/平台管理/2.账目查询.html" />
+        <option value="$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html" />
+        <option value="$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="231" />
+    <option name="y" value="1" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
   <component name="ProjectId" id="1V17yAarKn7umCoupagAdv5vuu5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="suibian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suibian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suibian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suibian" type="462c0819:PsiDirectoryNode" />
+              <item name="管理端" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="用户端" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="管理端" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="管理端" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="平台管理" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -53,11 +288,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\suibian" />
       <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204" />
       <recent name="C:\Users\dell\IdeaProjects\_1204\html\团队成员" />
       <recent name="C:\Users\dell\IdeaProjects\_1204\html\关于我们" />
       <recent name="C:\Users\dell\IdeaProjects\_1204\html\产品系列" />
-      <recent name="C:\Users\dell\IdeaProjects\_1204" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204\img" />
@@ -106,6 +341,7 @@
       <workItem from="1577071834892" duration="3045000" />
       <workItem from="1577246183593" duration="3348000" />
       <workItem from="1578706256484" duration="5189000" />
+      <workItem from="1578795089654" duration="3841000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1576062424188</created>
@@ -208,6 +444,72 @@
     <option name="localTasksCounter" value="15" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3879000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32781458" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32781458" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -217,8 +519,28 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -234,5 +556,104 @@
     <MESSAGE value="1.11.2020" />
     <MESSAGE value="最新1.11" />
     <option name="LAST_COMMIT_MESSAGE" value="最新1.11" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/4.2团队信息管理.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/1.注册信息.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/7.页面管理.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#table#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#td#1;n#tr#1;n#table#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/legacy.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2326">
+          <caret line="830" column="18" selection-start-line="830" selection-start-column="18" selection-end-line="830" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.账目查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#254#260#0" expanded="true" />
+            <element signature="e#260#266#0" expanded="true" />
+            <element signature="e#266#272#0" expanded="true" />
+            <element signature="e#272#278#0" expanded="true" />
+            <element signature="e#278#284#0" expanded="true" />
+            <element signature="e#284#290#0" expanded="true" />
+            <element signature="e#290#296#0" expanded="true" />
+            <element signature="e#406#412#0" expanded="true" />
+            <element signature="e#412#418#0" expanded="true" />
+            <element signature="e#418#424#0" expanded="true" />
+            <element signature="e#424#430#0" expanded="true" />
+            <element signature="e#430#436#0" expanded="true" />
+            <element signature="e#436#442#0" expanded="true" />
+            <element signature="e#442#448#0" expanded="true" />
+            <element signature="e#558#564#0" expanded="true" />
+            <element signature="e#564#570#0" expanded="true" />
+            <element signature="e#570#576#0" expanded="true" />
+            <element signature="e#576#582#0" expanded="true" />
+            <element signature="e#582#588#0" expanded="true" />
+            <element signature="e#588#594#0" expanded="true" />
+            <element signature="e#594#600#0" expanded="true" />
+            <element signature="e#600#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/服务简介.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

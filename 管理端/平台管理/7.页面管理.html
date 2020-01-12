@@ -2,17 +2,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="../css/head.css"/>
     <link rel="stylesheet" type="text/css" href="../css/menu.css"/>
     <link rel="stylesheet" type="text/css" href="../css/box.css"/>
-    <meta charset="UTF-8">
-
+    	<meta http-equiv="CONTENT-TYPE" content="text/html;charest=utf-8">
+    	<script type="text/javascript" charset="utf-8" src="../../ueditor/ueditor.config.js"></script>
+    	<script type="text/javascript" charset="utf-8" src="../../ueditor/ueditor.all.js"></script>
+    	<link href="../../ueditor/themes/default/css/ueditor.css" rel="stylesheet">
+    	<script type="text/javascript" charset="utf-8" src="../../ueditor/lang/zh-cn/zh-cn.js"></script>
+    	<script type="text/javascript">
+    		UE.getEditor('editor');
+    	</script>
 
     <title>7.页面管理</title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <style type="text/css">
-        /*body, ul, li{margin: 0;padding: 0;}*/
-        /*body { background-color:#e4e9f1; color:#002446; margin: 0; }*/
+
         input, select, textarea, th, td { font-size: 1em; }
         ol.tree {padding: 0 0 0 30px;width: 220px;}
         li {position: relative;margin-left: -15px;list-style: none;}
@@ -35,33 +41,28 @@
             margin-bottom: 600px;
         }
     </style>
-
-
-
     <style type="text/css">
-        /* CSS样式制作 */
-        /**{padding:0px; margin:0px;}*/
         a{ text-decoration:none; color:black;}
         a:hover{text-decoration:none; color:#336699;}
-        #tab{width:920px; padding:5px;height:820px;margin:20px;}
-        #tab ul{list-style:none;width:920px;height:30px;line-height:30px; border-bottom:2px rgb(68, 87, 253) solid;}
+        #tab{width:900px; padding:5px;height:820px;margin:20px;}
+        #tab ul{;width:900px;height:30px;line-height:30px; border-bottom:2px rgb(68, 87, 253) solid;}
         #tab ul li{background:#FFF;cursor:pointer;float: left;list-style:none; width:100px;height:29px; line-height:29px;padding:0px 10px; margin:0px 10px; border:1px solid #BBB; border-bottom:2px solid #C88;}
         #tab ul li.on{border-top:2px solid rgb(100, 156, 230); border-bottom:2px solid #FFF;}
-        #tab div{height:800px;width:900px; line-height:24px;border-top:none;  padding:1px; border:1px solid #336699;padding:10px;}
-        .hide{display:none;}
-
+        .hide{display: none;}
         .上边框{
             float: left;
         }
     </style>
-
     <script type="text/javascript">
         // JS实现选项卡切换
         window.onload = function(){
             var myTab = document.getElementById("tab");    //整个div
             var myUl = myTab.getElementsByTagName("ul")[0];//一个节点
             var myLi = myUl.getElementsByTagName("li");    //数组
-            var myDiv = myTab.getElementsByTagName("div"); //数组
+            var myDiv=new Array();
+            myDiv[0] = document.getElementById("firstPage"); //数组
+            myDiv[1] = document.getElementById("secondPage");
+            myDiv[2] = document.getElementById("thirdPage");
 
             for(var i = 0; i<myLi.length;i++){
                 myLi[i].index = i;
@@ -75,9 +76,55 @@
                 }
             }
         }
+    </script>
 
+    <script type="text/javascript">
+        function getObjectURL(file){
+            console.log(file);
+            var url = null;
+            if(window.createObjectURL!=undefined){ // basic
+                url = window.createObjectURL(file);
+            }else if(window.URL!=undefined){ // mozilla(firefox)
+                url = window.URL.createObjectURL(file);
+            }else if(window.webkitURL!=undefined){ // webkit or chrome
+                url = window.webkitURL.createObjectURL(file);
+            }
+            console.log(url);
+            return url;
+        }
+        //jq 调用方法
+        $('#oneJq').on('change',function(){
+            $('#showOneJq').empty().append('<img style="max-width:200px; max-height:200px;" src="' + getObjectURL(this.files[0]) + '" />');
+        });
 
+        $('#twoJq').on('change',function(){
+            var This = this;
+            $('#showTwoJq').empty();
+            for(var i = 0; i < This.files.length ; i ++){
+                $('#showTwoJq').append('<img style="max-width:200px; max-height:200px;" src="' + getObjectURL(This.files[i]) + '" />');
+            }
+        });
+        //原生JS调用方法
+        //添加图片元素
+        function createImg(imgEle , file , parEle){
+            imgEle.setAttribute('style','max-width:200px;max-height:200px;');
+            imgEle.setAttribute('src',getObjectURL(file));
+            document.getElementById(parEle).appendChild(imgEle);
+        }
+        document.getElementById('oneJs').addEventListener( 'change' , function(e){
+            var img = document.createElement('img');
+            document.getElementById('showOneJs').innerHTML = '';
+            createImg(img , e.target.files[0] , 'showOneJs');
+        } , false );
 
+        document.getElementById('twoJs').addEventListener( 'change' , function(e){
+            var img = [];
+            document.getElementById('showTwoJs').innerHTML = '';
+            for(var i = 0; i < e.target.files.length ; i ++){
+                img[i] = document.createElement('img');
+                createImg(img[i] , e.target.files[i] , 'showTwoJs');
+            }
+        } , false );
     </script>
 
 
@@ -195,15 +242,60 @@
 </ol>
 
 <div class="上边框" id = "tab">
-    <ul >
+    <ul>
         <li class="off" style="margin-left: 250px">图片</li>
         <li class="on">文字</li>
         <li class="off">超链接</li>
     </ul>
     <div id="firstPage" class="hide">
 
+        <div class="carousel-item active" title="01">
+            <img src="../images/slide1.jpg">
+        </div>
+        <div class="carousel-item" title="02">
+            <img src="../images/slide2.jpg">
+        </div>
+        <div class="carousel-item"title="03">
+            <img src="../images/slide3.jpg">
+        </div>
+
+        请输入待修改图片编号：<input id="aaa" type="text" />
+        <div class="left">
+            请选择替换文件：<input id="oneJs" type="file" accept="image/*" />
+            <div id="showOneJs" style="min-height:200px;"></div>
+            <input id="sub" type="submit" value="确认">
+        </div>
     </div>
+
     <div id="secondPage" class="show">
+
+        <table>
+            <tr>
+                <td>选择文字</td>
+                <td>
+                    <select style="width: 500px;float: left">
+                        <option value="volvo">Volvo</option>
+                        <option value="saab">Saab</option>
+                        <option value="opel">Opel</option>
+                        <option value="audi">Audi</option>
+                    </select>
+                </td>
+            </tr>
+            <tr style="margin-left: 500px;">
+                <td >修改内容</td>
+                <td><textarea name="editor" id="editor" style="width: 800px; height: 400px; "></textarea></td>
+            </tr>
+            <tr>
+                <td>添加附件</td><td><input type="file" name="file"></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="提交"></td>
+            </tr>
+        </table>
+    </div>
+
+    <div id="thirdPage" class = "hide">
+
         <h4>导航栏</h4>
         首页： <input type="url" name="daohanglan_shouye"/>
         <button>修改</button><br/>
@@ -263,9 +355,6 @@
         <button>修改</button><br/>
         注册： <input type="url" name="daohanglan_shouye"/>
         <button>修改</button><br/>
-    </div>
-    <div id="thirdPage" class = "hide">
-
     </div>
 </div>
 

@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f0379b7-91f4-4106-97fc-a070c62dcf9d" name="Default Changelist" comment="">
+    <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/政策模拟平台（1129版）.html" beforeDir="false" afterPath="$PROJECT_DIR$/政策模拟平台（1129版）.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/1.1个人注册信息.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/1.1个人注册信息.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/1.2团队注册信息.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/1.2团队注册信息.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/4.2团队信息管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/4.2团队信息管理.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/5.2使用详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/5.2使用详情.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/平台管理系统.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/平台管理系统.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,199 +12,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/4.2团队信息管理.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/3.算法管理.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-              <folding>
-                <element signature="e#1234#1240#1" expanded="true" />
-                <element signature="e#1333#1339#1" expanded="true" />
-                <element signature="e#1432#1438#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/1.2团队注册信息.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/1.1个人注册信息.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/平台管理系统.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/管理端/平台管理/7.页面管理.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="49" column="85" lean-forward="true" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
-              <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="$PROJECT_DIR$/管理端/平台管理/页面管理.html" />
-        <option value="$PROJECT_DIR$/政策模拟平台（1129版）.html" />
-        <option value="$PROJECT_DIR$/管理端/css/menu.css" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/2.账目查询.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/平台管理系统.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/5.2使用详情.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/4.2团队信息管理.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/1.2团队注册信息.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/1.1个人注册信息.html" />
-        <option value="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" />
+        <option value="jsz &lt;2364341865@qq.com&gt;" />
       </list>
     </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="199" />
-    <option name="width" value="1440" />
-    <option name="height" value="768" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="用户端" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="管理端" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="计量算法" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\加瓦\计量算法" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="管理端" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="平台管理" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1V17yAarKn7umCoupagAdv5vuu5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204" />
+      <recent name="C:\Users\dell\IdeaProjects\_1204\html\团队成员" />
+      <recent name="C:\Users\dell\IdeaProjects\_1204\html\关于我们" />
+      <recent name="C:\Users\dell\IdeaProjects\_1204\html\产品系列" />
+      <recent name="C:\Users\dell\IdeaProjects\_1204" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204\img" />
+      <recent name="C:\Users\13575\IdeaProjects\整合网页12.12\_1204\html\解决方案" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,362 +76,163 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="7.页面管理.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/_1204/webapp/管理端/平台管理/7.页面管理.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.7.页面管理.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f0379b7-91f4-4106-97fc-a070c62dcf9d" name="Default Changelist" comment="" />
-      <created>1578713154411</created>
+      <changelist id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="" />
+      <created>1575025226392</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578713154411</updated>
-      <workItem from="1578713156090" duration="510000" />
-      <workItem from="1578713808065" duration="7434000" />
+      <updated>1575025226392</updated>
+      <workItem from="1575025227730" duration="3287000" />
+      <workItem from="1575777479775" duration="11654000" />
+      <workItem from="1576058928149" duration="7278000" />
+      <workItem from="1576073883601" duration="1198000" />
+      <workItem from="1576132502846" duration="23157000" />
+      <workItem from="1576202159311" duration="5173000" />
+      <workItem from="1576409000577" duration="5095000" />
+      <workItem from="1577071834892" duration="3045000" />
+      <workItem from="1577246183593" duration="3348000" />
+      <workItem from="1578706256484" duration="5189000" />
     </task>
-    <task id="LOCAL-00001" summary="fff">
-      <created>1578725921055</created>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1576062424188</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1578725921056</updated>
+      <updated>1576062424188</updated>
     </task>
-    <task id="LOCAL-00002" summary="fff">
-      <created>1578725951858</created>
+    <task id="LOCAL-00002" summary="测试">
+      <created>1576062569084</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1578725951858</updated>
+      <updated>1576062569084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试">
+      <created>1576072007244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576072007244</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试">
+      <created>1576072048639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576072048639</updated>
+    </task>
+    <task id="LOCAL-00005" summary="qaolwihtfoaqiwgpolaihGPO">
+      <created>1576134601301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134601301</updated>
+    </task>
+    <task id="LOCAL-00006" summary="关于我们">
+      <created>1576138100374</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576138100374</updated>
+    </task>
+    <task id="LOCAL-00007" summary="关于我们">
+      <created>1576234950436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576234950436</updated>
+    </task>
+    <task id="LOCAL-00008" summary="关于我们">
+      <created>1576235479236</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576235479236</updated>
+    </task>
+    <task id="LOCAL-00009" summary="关于我们">
+      <created>1576235887578</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576235887578</updated>
+    </task>
+    <task id="LOCAL-00010" summary="123">
+      <created>1576237148285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576237148285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="12-16">
+      <created>1576496098247</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576496098247</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new">
+      <created>1576496297167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576496297167</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1.11.2020">
+      <created>1578712248799</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578712248799</updated>
+    </task>
+    <task id="LOCAL-00014" summary="最新1.11">
+      <created>1578712408435</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578712408435</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7944000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32781458" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383994" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32781458" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fff" />
-    <option name="LAST_COMMIT_MESSAGE" value="fff" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3990">
-          <caret line="210" column="62" selection-start-line="210" selection-start-column="62" selection-end-line="210" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/服务简介.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1204.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1120.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/css/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/css/box.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/政策模拟平台（1129版）.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/1.注册信息.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.账目查询.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#254#260#0" expanded="true" />
-            <element signature="e#260#266#0" expanded="true" />
-            <element signature="e#266#272#0" expanded="true" />
-            <element signature="e#272#278#0" expanded="true" />
-            <element signature="e#278#284#0" expanded="true" />
-            <element signature="e#284#290#0" expanded="true" />
-            <element signature="e#290#296#0" expanded="true" />
-            <element signature="e#406#412#0" expanded="true" />
-            <element signature="e#412#418#0" expanded="true" />
-            <element signature="e#418#424#0" expanded="true" />
-            <element signature="e#424#430#0" expanded="true" />
-            <element signature="e#430#436#0" expanded="true" />
-            <element signature="e#436#442#0" expanded="true" />
-            <element signature="e#442#448#0" expanded="true" />
-            <element signature="e#558#564#0" expanded="true" />
-            <element signature="e#564#570#0" expanded="true" />
-            <element signature="e#570#576#0" expanded="true" />
-            <element signature="e#576#582#0" expanded="true" />
-            <element signature="e#582#588#0" expanded="true" />
-            <element signature="e#588#594#0" expanded="true" />
-            <element signature="e#594#600#0" expanded="true" />
-            <element signature="e#600#606#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/4.用户详细信息.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/5.查询记录.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/6.价格管理.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/5.2使用详情.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="e#1315#1321#1" expanded="true" />
-            <element signature="e#1385#1391#1" expanded="true" />
-            <element signature="e#1455#1461#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="e#1246#1252#1" expanded="true" />
-            <element signature="e#1298#1304#1" expanded="true" />
-            <element signature="e#1350#1356#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/4.2团队信息管理.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/3.算法管理.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.3团队账目.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="e#1234#1240#1" expanded="true" />
-            <element signature="e#1333#1339#1" expanded="true" />
-            <element signature="e#1432#1438#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.2个人账目.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/2.1总账目查询.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/1.2团队注册信息.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/1.1个人注册信息.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/平台管理系统.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/管理端/平台管理/7.页面管理.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="49" column="85" lean-forward="true" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <MESSAGE value="测试" />
+    <MESSAGE value="qaolwihtfoaqiwgpolaihGPO" />
+    <MESSAGE value="关于我们" />
+    <MESSAGE value="123" />
+    <MESSAGE value="12-16" />
+    <MESSAGE value="new" />
+    <MESSAGE value="1.11.2020" />
+    <MESSAGE value="最新1.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="最新1.11" />
   </component>
 </project>

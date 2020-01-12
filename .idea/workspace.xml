@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/7.页面管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578712408435</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="1.11晚上">
+      <created>1578739391658</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1578739391658</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1.11晚上">
+      <created>1578799247904</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578799247904</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +250,7 @@
     <MESSAGE value="new" />
     <MESSAGE value="1.11.2020" />
     <MESSAGE value="最新1.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="最新1.11" />
+    <MESSAGE value="1.11晚上" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.11晚上" />
   </component>
 </project>

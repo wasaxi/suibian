@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/3.算法管理.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/4.1个人信息管理.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/5.1使用概况.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理端/平台管理/6.价格管理.html" afterDir="false" />
-    </list>
+    <list default="true" id="b24713ff-62a2-493c-9e81-98918f51cf85" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +216,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578799247904</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="1.12">
+      <created>1578799496467</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1578799496467</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1.12">
+      <created>1578799534280</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1578799534280</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +259,7 @@
     <MESSAGE value="1.11.2020" />
     <MESSAGE value="最新1.11" />
     <MESSAGE value="1.11晚上" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.11晚上" />
+    <MESSAGE value="1.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.12" />
   </component>
 </project>
